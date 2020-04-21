@@ -5,7 +5,4 @@ Spring MVC
 Spring Data
 MongoDB
 
-<<<<<<< HEAD
-=======
 
->>>>>>> a730666de3959daa5d48bfaf81235c0fa86829b4
